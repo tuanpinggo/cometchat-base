@@ -111,10 +111,10 @@ function useThemeStyles(
     };
 
     const handleFontSizeChange = () => {
-      const selectedFontSize = fontSizes[styleFeatures.typography.size as keyof typeof fontSizes] || {};
-      Object.entries(selectedFontSize)?.forEach(([key, val]) => {
-        document.documentElement.style.setProperty(key, val);
-      });
+      // const selectedFontSize = fontSizes[styleFeatures.typography.size as keyof typeof fontSizes] || {};
+      // Object.entries(selectedFontSize)?.forEach(([key, val]) => {
+      //   document.documentElement.style.setProperty(key, val);
+      // });
     };
 
     if (styleFeatures) {
