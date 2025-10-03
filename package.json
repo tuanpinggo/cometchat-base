@@ -4,14 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 3001",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
     "@cometchat/calls-sdk-javascript": "^4.1.0",
-    "@cometchat/chat-uikit-react": "^6.3.0",
+    "@cometchat/chat-uikit-react": "^6.3.1",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
