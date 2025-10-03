@@ -7,7 +7,7 @@
     "dev": "vite --port 3001",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview --host"
   },
   "dependencies": {
     "@cometchat/calls-sdk-javascript": "^4.1.0",

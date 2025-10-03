@@ -17,10 +17,10 @@
   resolved "https://registry.yarnpkg.com/@cometchat/chat-sdk-javascript/-/chat-sdk-javascript-4.1.2.tgz#2c378c62d4f4777ca2c93271743dd0c8967a0fa4"
   integrity sha512-BW820Fc5MqIytnlvRWKlJQn/bOEduCH4eDaa/R2AznCK2m60s5z6DDotsVj66pVJNFydjLuQ3G8yshJnX3atwQ==
 
-"@cometchat/chat-uikit-react@^6.3.0":
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/@cometchat/chat-uikit-react/-/chat-uikit-react-6.3.0.tgz#6958dc6f9158981c32217cdfb62d259af344fb42"
-  integrity sha512-UJRwkJ2OgHwmwMvwX4iqtj8UV1VfYKImaeZ76Zcx6IB+7y5xmg2jRNeWz3J7tvFgoipGEoDVIae7Cdqpn5uj7g==
+"@cometchat/chat-uikit-react@^6.3.1":
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/@cometchat/chat-uikit-react/-/chat-uikit-react-6.3.1.tgz#695c76ae5cc4ba36baf39f7da8a9ef61ccb0eda2"
+  integrity sha512-6bI44//6p+Gseyyeiz2zv9r6X7Do2W7JLE7PlF6UzB5EQJ1haAGD+coKSkKHil1anl659kz8jYBQpj9zRU6M0Q==
   dependencies:
     "@cometchat/chat-sdk-javascript" "^4.1.2"
     "@rollup/plugin-json" "^6.1.0"
